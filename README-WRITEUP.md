@@ -2,7 +2,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
 
 # Dubna 2021 - selection / Tasks for Dubna 2021 from @naumovax
 
-## BoolFun (категория crypto)
+##                                                      BoolFun (категория crypto)
 
 ### Описание
 Вспомним математику! 
@@ -35,7 +35,7 @@ x	k	g	function
 расшифровка:         01101100 00110000 01110110 01001101 00110100 01000001 01110100 01101000 00100001 
 Ответ: l0vM4Ath!
 
-## Not Vi (категория crypto)
+##                                                      Not Vi (категория crypto)
 
 ### Описание
 В этом шифре явно есть что-то схожее с шифром Виженера, но что?..
