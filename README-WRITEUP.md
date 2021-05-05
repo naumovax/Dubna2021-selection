@@ -31,6 +31,11 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
         расшифровка:         01101100 00110000 01110110 01001101 00110100 01000001 01110100 01101000 00100001 
         Ответ: l0vM4Ath!
 
+
+
+
+
+
 ## Not Vi (категория crypto)
 
 ### Описание
@@ -46,6 +51,10 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
         iejfbghrtyzbplnlbplvbjbzeofuxe
         DUBNADUBNADUBNADUBNADUBNADUBNA
         расшифровывая получаем ответ - wowyoureallycrazycriptographer
+
+
+
+
 
 
 ## Standart (категория misc)
