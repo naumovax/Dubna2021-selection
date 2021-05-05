@@ -2,7 +2,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
 
 # Dubna 2021 - selection / Tasks for Dubna 2021 from @naumovax
 
-##                                                      BoolFun (категория crypto)
+        ## BoolFun (категория crypto)
 
 ### Описание
 Вспомним математику! 
