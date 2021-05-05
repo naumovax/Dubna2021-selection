@@ -1,8 +1,7 @@
+# Dubna 2021 - selection / Tasks for Dubna 2021 from @naumovax
 Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search part1 (island), Search part2 (cilang))
 
-# Dubna 2021 - selection / Tasks for Dubna 2021 from @naumovax
-
-## BoolFun (категория crypto)
+# BoolFun (категория crypto)
 
 ### Описание
         Вспомним математику! Открытое сообщение представляет собой двоичную (осмысленную при переводе в ascii) строку длиной x1x2x3...xn, ключ k1k2k3...km (может быть любой длины; если его длина меньше длины строки, то он добавляется заново к примеру keykeykeykey; если меньше строки, то соответственно обрезается), и деключ g1g2g3...gm (просто перевернутый ключ k соответственно длины m с теми же условиями, что и k). На выходе мы получили закодированное сообщение в приложенном файле. Ключ - info. Осталось найти исходное послание. В картинке прилагаем функцию шифрования f(x,y,g). Значения функции формируют шифртекст. Не забудьте при сдаче обернуть флаг в dubna{...}
@@ -36,7 +35,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
 
 
 
-## Not Vi (категория crypto)
+# Not Vi (категория crypto)
 
 ### Описание
         В этом шифре явно есть что-то схожее с шифром Виженера, но что?..
@@ -57,7 +56,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
 
 
 
-## Standart (категория misc)
+# Standart (категория misc)
 
 ### Описание
         Хотите стать специалистом по информационной безопасности? Тогда извольте прочитать документ.
@@ -76,7 +75,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
         это base58
         dubna{_l7ke_wh111te_symbols_in_very_imp000rt4nt_doc_}
 
-## P4ssw0rd (категория osint)
+# P4ssw0rd (категория osint)
 
 ### Описание
 У нас есть почта tapatrickmartin@yahoo.com и нам нужен пароль - все просто :)
@@ -85,7 +84,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
         Заходим на https://intelx.io/?s=tapatrickmartin@yahoo.com и ищем, находим пароль tapatrickmartin@yahoo.com:cowboys28 в нескольких базах данных, все просто
         на have i been pwned можно посмотреть, что почта есть в 1 базе данных
 
-## Search part1 (island) (категория osint)
+# Search part1 (island) (категория osint)
 
 ### Описание
         Данное задание состоит из двух частей - Search_part1_(island) и Search_part2_(cilang)
@@ -96,7 +95,7 @@ Tasks for Dubna 2021 from @naumovax (BoolFun, Not Vi, Standart, P4ssw0rd, Search
 ### Решение
         В метаданных видим несколько base64, нужный нам находится в графе местоположение - декодируем его - получаем координаты 51°27'34.8"N+9°26'06.7"W, преобразовываем их в норм вид 51.4590776,-9.4381359 и делаем поиск по гугл картам. Находим остров Sherkin - это флаг.
 
-## Search part2 (cilang) (категория osint)
+# Search part2 (cilang) (категория osint)
 
 ### Описание
         Данное задание состоит из двух частей - Search_part1_(island) и Search_part2_(cilang)
